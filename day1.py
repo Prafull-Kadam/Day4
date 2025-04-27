@@ -13,3 +13,5 @@ def main():
     farewell(person)
     celebrate(person)
 
+if __name__ == "__main__":
+    main()
