@@ -6,3 +6,10 @@ def farewell(name):
 
 def celebrate(name):
     print(f"Congratulations, {name}!")
+
+def main():
+    person = "Alice"
+    greet(person)
+    farewell(person)
+    celebrate(person)
+
